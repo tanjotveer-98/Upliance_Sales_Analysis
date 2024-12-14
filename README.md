@@ -5,7 +5,7 @@ Analyze the datatsets related to orders, users and cooking sessions to uncover k
 
 ## Summary-
 * Data Cleaning and merging-
-  <img src= "https://github.com/user-attachments/assets/18d63069-4d28-4bd9-9df9-82dbdc183ad6">
+  <img src= "https://github.com/user-attachments/assets/18d63069-4d28-4bd9-9df9-82dbdc183ad6" width=350 height= 350>
 
 ## Key Insights-
 * ‘Oatmeal’ and ‘Pancakes’ are the dishes were least rated which could explain why they were also least ordered and contributed the least to Sales.</BR>
