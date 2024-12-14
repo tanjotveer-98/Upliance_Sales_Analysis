@@ -4,10 +4,10 @@
 Analyze the datatsets related to orders, users and cooking sessions to uncover key insights to make business recommendations for an AI cooking assistant system. The analysis aims at exploring factors influencing user’s preferences, popular dishes and reveal trends based on cooking patterns. The findings will inform strategies to improve decision-making through data-driven visualizations and actionable recommendations.</p>
 
 ## Summary-
-* Data Cleaning and merging-
+* Data Cleaning and merging-</br>
   <img src= "https://github.com/user-attachments/assets/18d63069-4d28-4bd9-9df9-82dbdc183ad6" width=600 height= 350>
 
-## Key Insights-
+## Key Insights- 
 * ‘Oatmeal’ and ‘Pancakes’ are the dishes were least rated which could explain why they were also least ordered and contributed the least to Sales.</BR>
 * the oldest age group and the youngest age group in the dataset request the least number of orders. This might be because the oldest age group usually find it difficult to use technology and the youngest group might prefer to cook the least or rather cook more simpler dishes.</br>
 * Even though, sales trend for order ratings and total sales remained steady but did not improve. Also, most users rely on the AI assistant for food at night. This might be because of the time constraints during the day or more complex meals at night. </br>
