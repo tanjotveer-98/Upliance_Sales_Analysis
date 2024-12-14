@@ -1,5 +1,5 @@
 # Upliance_Sales_Analysis
-* Tools- Microsoft Eacel 2019, MS Word.</br>
+* Tools- Microsoft Excel 2019, MS Word.</br>
 <p><b>Business Objective-</b> </br>
 Analyze the datatsets related to orders, users and cooking sessions to uncover key insights to make business recommendations for an AI cooking assistant system. The analysis aims at exploring factors influencing user’s preferences, popular dishes and reveal trends based on cooking patterns. The findings will inform strategies to improve decision-making through data-driven visualizations and actionable recommendations.</p>
 
